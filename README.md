@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmad-Stigh
-- 👀 I’m interested MS Endpoint Manager, Software Deployment through Powershell and cloud enironments
+- 👀 I’m interested in MS Endpoint Manager, Software Deployment through Powershell and cloud enironments
 - 🌱 I’m currently learning Microsoft Endpoint Manager, Azure Automation, Powershell scripting for deployment
 - 💞️ I’m looking to collaborate on IT automation, software management and cloud Security
 - 📫 How to reach me? MY Email: Ahmad.stigh@yoummday.com
